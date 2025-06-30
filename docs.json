@@ -9,11 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "logo":
-    {
-      "light": "/logo/color.svg",
-      "dark": "/logo/color.svg"
-    },
     "navbar": {
       "links": [
         {
